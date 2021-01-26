@@ -1,5 +1,3 @@
-
-
 def oxford_comma(array)
   case array.size
   when 0
